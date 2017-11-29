@@ -35,3 +35,8 @@ https://github.com/kernelmachine/pyLSA
 
 https://github.com/ryankiros/skip-thoughts
 
+
+Stanford Paper on Fake News Stance Detection:
+
+https://web.stanford.edu/class/cs224n/reports/2760496.pdf
+
