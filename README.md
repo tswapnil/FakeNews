@@ -30,3 +30,8 @@ LSA - similarity between headline and text
 NNF
 LSI
 PPDB
+
+https://github.com/kernelmachine/pyLSA
+
+https://github.com/ryankiros/skip-thoughts
+
